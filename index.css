@@ -178,6 +178,8 @@ footer a:hover{
     top:50px;
     left:0px;
     z-index:99;
+    padding:1em;
+    box-sizing:border-box;
 }
 #menu a{
     text-decoration:none;
