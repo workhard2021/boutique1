@@ -28,7 +28,7 @@ div.ancre{
 /* COLLECTION FEMME*/
 .image_collection{
     position:relative;
-    height:500px;
+    height:400px;
     top:100px;
 }
 .collection img{
@@ -39,7 +39,12 @@ div.ancre{
 }
 .item_collection_1{
     position:relative;
-    bottom:350px; 
+    bottom:100px; 
+    color:white;
+    font-size:2em;
+}
+.item_col{
+    font-size:1.5em;
 }
 .item_collection_2{
    position:relative;
